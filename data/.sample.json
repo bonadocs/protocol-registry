@@ -1,0 +1,13 @@
+{
+   "name":"user readable protocol name",
+   "tags":"comma,separated,tag,list",
+   "website":"https://url.of.main.website",
+   "links":[
+      {
+         "label":"link-label",
+         "img":"ipfs://cid-of-square-svg-image-with-dimensions",
+         "link":"https://link-location"
+      }
+   ],
+   "collection":"ipfs://cid-of-valid-collection-generated-by-bonadocs-editor"
+}
