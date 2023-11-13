@@ -16,8 +16,8 @@ To add a protocol to the database, fork this repository and make the following u
 - Leave an empty line at the end of the file.
 - The slug __MUST__ not have been used by a different protocol and must be reasonably similar to the protocol name.
   For example, you cannot add `uniswap: Compound`. Your PR will be rejected if this is detected.
-- The slug __MUST__ include only lowercase letters of the English alphabet `(a-z)`, numbers, and can contain hyphens `(-)` in between one or more
-  letters and numbers. The regex must match the regex: `^[a-z0-9]+(?:-[a-z0-9]+)*$`. Some (syntactically) valid slugs are `uniswap`, `uniswap-v2`, and `uniswap-v2-pilot`.
+- The slug __MUST__ include only lowercase letters of the English alphabet `(a-z)`, digits `(0-9)`, and can contain hyphens `(-)` in between one or more
+  letters and digits. The slug must match the regex: `^[a-z0-9]+(?:-[a-z0-9]+)*$`. Some (syntactically) valid slugs are `uniswap`, `uniswap-v2`, and `uniswap-v2-pilot`.
   Note that slugs like `0123` would be syntactically valid but remember that the slug must be reasonably similar to the protocol name.
 - You __SHOULD__ __APPEND__ the slug to the relevant `/chain/evm[chainId].txt` files for each chain your protocol runs on.
 - The slug __MUST__ be included in at least one `/chain/evm[chainId].txt` file, corresponding to a chain the protocol
