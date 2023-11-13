@@ -1,6 +1,7 @@
 {
    "name":"user readable protocol name",
    "tags":"comma,separated,tag,list",
+   "chains":"1,56,137",
    "website":"https://url.of.main.website",
    "links":[
       {
