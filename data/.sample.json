@@ -1,14 +1,17 @@
 {
-   "name":"user readable protocol name",
-   "tags":"comma,separated,tag,list",
-   "chains":"1,56,137",
-   "website":"https://url.of.main.website",
-   "links":[
+   "name": "user readable protocol name",
+   "slug": "protocol-slug",
+   "description": "short description of the protocol",
+   "collection": "ipfs://cid-of-valid-collection-generated-by-bonadocs-editor",
+   "website": "https://url.of.main.website",
+   "logo": "ipfs://cid-of-square-svg-image-with-dimensions",
+   "tags": "comma,separated,tag,list",
+   "chains": "1,56,137",
+   "links": [
       {
-         "label":"link-label",
-         "img":"ipfs://cid-of-square-svg-image-with-dimensions",
-         "link":"https://link-location"
+         "label": "link-label",
+         "imgURI": "ipfs://cid-of-square-svg-image-with-dimensions",
+         "url": "https://link-location"
       }
-   ],
-   "collection":"ipfs://cid-of-valid-collection-generated-by-bonadocs-editor"
+   ]
 }
