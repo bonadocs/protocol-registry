@@ -1,11 +1,11 @@
-# Bonadocs Protocol Search Database
+# Bonadocs Protocol Registry
 
-The protocol search DB repository serves as a public open-source database to power the protocol search feature in Bonadocs,
+The protocol registry repository serves as a public open-source database to power the protocol search feature in Bonadocs,
 enabling public contribution without compromising the safety of developers who use the search tool.
 
 ## How does it work?
 
-The Protocol Search Database is a GitHub repository indexed according to the rules defined in the [Indexing and Search](#indexing-and-search) section below.
+The Protocol Registry is a GitHub repository indexed according to the rules defined in the [Indexing and Search](#indexing-and-search) section below.
 This enables a publicly visible and verifiable record of protocols and their relevant metadata. The relatively small number of protocols
 makes this approach sufficiently efficient.
 
@@ -49,6 +49,7 @@ To add a protocol to the database, fork this repository and make the following u
   }
   ````
 - Once done, you can submit a PR to commit your changes to the DB.
+- The owners list is a list of github usernames allowed to make changes to the protocol data. Any commits changing a protocol's metadata by anyone other than the owners will be rejected.
 - Your PR text should include a link to your protocol home page and your Bonadocs collection page.
 - Wait for your PR to be reviewed. We will do some due diligence to make sure you are not impersonating a protocol and using
   fake data. If we have any questions or concerns, we will raise them on the PR thread.
