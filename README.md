@@ -30,6 +30,7 @@ To add a protocol to the database, fork this repository and make the following u
   {
      "name": "user-readable protocol name",
      "slug": "protocol-slug",
+     "owners": "comma,separated,github,usernames",
      "tags": "comma,separated,tag,list",
      "chains": "1,56,137",
      "website": "https://url.of.main.website",
