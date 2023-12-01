@@ -1,3 +1,6 @@
 lending
 exchange
 infrastructure
+stablecoin
+staking
+yield
