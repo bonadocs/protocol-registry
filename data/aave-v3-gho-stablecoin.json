@@ -1,0 +1,22 @@
+{
+  "name": "Aave v3 - GHO Stablecoin",
+  "slug": "aave-v3-gho-stablecoin",
+  "description": "GHO is the only decentralized, overcollateralized stablecoin native to the Aave Protocol.",
+  "collection": "ipfs://bafkreiczcvk5zgefx3ojbi7k25ioqxp4va6uyhkzyhughafmnixxihci3q",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "stablecoin",
+  "website": "https://aave.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.aave.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/aave"
+    }
+  ]
+}
