@@ -4,3 +4,4 @@ gmx-v1
 gmx-v2
 aave-v3-arbitrum-market
 aura-finance
+balancer

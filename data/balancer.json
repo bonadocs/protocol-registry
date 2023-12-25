@@ -1,0 +1,22 @@
+{
+  "name": "Balancer",
+  "slug": "balancer",
+  "description": "Balancer is a decentralized automated market maker (AMM) protocol built on Ethereum that represents a flexible building block for programmable liquidity.",
+  "collection": "ipfs://bafkreiadztgezkm2dewmb3f7zzh7vka5ml72ymf36cjcbptjwqszu3nsq4",
+  "owners": "staa99",
+  "chains": "42161,43114,8453,100,1,10,137,1101",
+  "tags": "yield",
+  "website": "https://balancer.fi",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/balancer.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.balancer.fi",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/balancer.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/balancer"
+    }
+  ]
+}
