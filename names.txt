@@ -14,3 +14,4 @@ aave-v2-main-market: Aave v2 - Main Market
 aave-v2-rwa-permissioned-market: Aave v2 - RWA Permissioned Market
 aave-v3-arbitrum-market: Aave v3 - Arbitrum Market
 aave-v3-avalanche-market: Aave v3 - Avalanche Market
+aave-v3-base-network-market: Aave v3 - Base Network Market
