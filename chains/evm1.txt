@@ -3,3 +3,4 @@ uniswap-v1
 uniswap-v2
 uniswap-v3
 aave-v1-aave-market
+aave-v1-uniswap-market
