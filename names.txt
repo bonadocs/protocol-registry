@@ -18,3 +18,4 @@ aave-v3-base-network-market: Aave v3 - Base Network Market
 aave-v3-ethereum-market: Aave v3 - Ethereum Market
 aave-v3-fantom-market: Aave v3 - Fantom Market
 aave-v3-gho-stablecoin: Aave v3 - GHO Stablecoin
+aave-v3-gnosis-market: Aave v3 - Gnosis Market
