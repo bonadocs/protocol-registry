@@ -7,7 +7,7 @@
   "chains": "1",
   "tags": "exchange",
   "website": "https://uniswap.org",
-  "logo": "https://uniswap.org/logo.svg",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/uniswap.svg",
   "links": [
     {
       "label": "GitHub",
