@@ -12,6 +12,11 @@
     {
       "label": "GitHub",
       "url": "https://github.com/uniswap"
+    },
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.uniswap.org",
+      "imgUrl": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/uniswap.svg"
     }
   ]
 }
