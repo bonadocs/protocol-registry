@@ -12,3 +12,4 @@ aave-v3-avalanche-market
 aave-v3-base-network-market
 aave-v3-ethereum-market
 aave-v3-fantom-market
+aave-v3-gnosis-market
