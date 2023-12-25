@@ -1,0 +1,22 @@
+{
+  "name": "Uniswap V1",
+  "slug": "uniswap-v1",
+  "description": "Uniswap V1 is the first version of the protocol, launched in November 2018 at Devcon 4. Because of its permissionless nature, it will exist for as long as Ethereum does.",
+  "collection": "ipfs://bafkreidzf2oihbfdgiqpxqu6aavxtvjl2q7alybzf2si5763rybixwrpvi",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "exchange",
+  "website": "https://uniswap.org",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/uniswap.svg",
+  "links": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/uniswap"
+    },
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.uniswap.org",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/uniswap.svg"
+    }
+  ]
+}
