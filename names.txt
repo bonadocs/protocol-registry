@@ -3,3 +3,4 @@ uniswap-v1: Uniswap V1
 uniswap-v2: Uniswap V2
 uniswap-v3: Uniswap V3
 gmx-v1: GMX V1
+gmx-v2: GMX V2

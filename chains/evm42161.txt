@@ -1,3 +1,4 @@
 
 uniswap-v3
 gmx-v1
+gmx-v2
