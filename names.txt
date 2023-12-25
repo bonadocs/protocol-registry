@@ -21,3 +21,4 @@ aave-v3-gho-stablecoin: Aave v3 - GHO Stablecoin
 aave-v3-gnosis-market: Aave v3 - Gnosis Market
 aave-v3-metis-market: Aave v3 - Metis Market
 aave-v3-optimism-market: Aave v3 - Optimism Market
+aave-v3-polygon-market: Aave v3 - Polygon Market
