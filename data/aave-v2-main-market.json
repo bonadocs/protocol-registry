@@ -1,0 +1,22 @@
+{
+  "name": "Aave v2 - Main Market",
+  "slug": "aave-v2-main-market",
+  "description": "Aave protocol is an ecosystem of liquidity markets, with the first market being the main Aave Market.",
+  "collection": "ipfs://bafkreigd4w7huk6et7qn5yjlm2n25fpnabaraairtec5brqp3mfwrua5y4",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "lending",
+  "website": "https://aave.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.aave.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/aave"
+    }
+  ]
+}
