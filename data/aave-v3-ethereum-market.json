@@ -1,0 +1,22 @@
+{
+  "name": "Aave v3 - Ethereum Market",
+  "slug": "aave-v3-ethereum-market",
+  "description": "Aave protocol is an ecosystem of liquidity markets, with the first market being the main Aave Market.",
+  "collection": "ipfs://bafkreibnp7fvp45v2lkrtwbwd7i2xwdphrdr3pn2rwu4x3kuq24f2dkose",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "lending",
+  "website": "https://aave.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.aave.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/aave"
+    }
+  ]
+}

@@ -10,3 +10,4 @@ aave-v2-rwa-permissioned-market
 aave-v3-arbitrum-market
 aave-v3-avalanche-market
 aave-v3-base-network-market
+aave-v3-ethereum-market
