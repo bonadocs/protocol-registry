@@ -1,3 +1,4 @@
 
 aave-v3-gnosis-market
 aura-finance
+balancer

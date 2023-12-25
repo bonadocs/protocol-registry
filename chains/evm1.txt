@@ -11,3 +11,4 @@ aave-v2-rwa-permissioned-market
 aave-v3-ethereum-market
 aave-v3-gho-stablecoin
 aura-finance
+balancer
