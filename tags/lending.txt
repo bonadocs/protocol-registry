@@ -16,3 +16,4 @@ aave-v3-gnosis-market
 aave-v3-metis-market
 aave-v3-optimism-market
 aave-v3-polygon-market
+aura-finance

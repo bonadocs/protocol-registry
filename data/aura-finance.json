@@ -1,0 +1,22 @@
+{
+  "name": "Aura Finance",
+  "slug": "aura-finance",
+  "description": "Aura Finance is a protocol built on top of the Balancer system to provide maximum incentives to Balancer liquidity providers and BAL stakers (into veBAL) through social aggregation of BAL deposits and Aura’s native token.",
+  "collection": "ipfs://bafkreig6vbna5le2mznhhosgzgy325snwgf3ujppndkyttkpp7jjvyhp6q",
+  "owners": "staa99",
+  "chains": "1,42161,10,137,100,8453",
+  "tags": "lending",
+  "website": "https://aave.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.aave.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/aave"
+    }
+  ]
+}

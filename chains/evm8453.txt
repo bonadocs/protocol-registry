@@ -1,3 +1,4 @@
 
 uniswap-v3
 aave-v3-base-network-market
+aura-finance
