@@ -1,0 +1,22 @@
+{
+  "name": "Aave v2 - Polygon Market",
+  "slug": "aave-v2-polygon-market",
+  "description": "Aave protocol is an ecosystem of liquidity markets, with the first market being the main Aave Market.",
+  "collection": "ipfs://bafkreicveze3semoxaydh7o57b7h6bj3q36qv7cb3ishdc5trrn7wfomo4",
+  "owners": "staa99",
+  "chains": "137",
+  "tags": "lending",
+  "website": "https://aave.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.aave.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/aave"
+    }
+  ]
+}

@@ -9,3 +9,4 @@ aave-v1-uniswap-market: Aave v1 - Uniswap Market
 aave-v2-amm-market: Aave v2 - AMM Market
 aave-v2-arc-permissioned-market: Aave v2 - Arc Permissioned Market
 aave-v2-avalanche-market: Aave v2 - Avalanche Market
+aave-v2-polygon-market: Aave v2 - Polygon Market
