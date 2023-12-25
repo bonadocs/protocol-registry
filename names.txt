@@ -6,3 +6,4 @@ gmx-v1: GMX V1
 gmx-v2: GMX V2
 aave-v1-aave-market: Aave v1 - Aave Market
 aave-v1-uniswap-market: Aave v1 - Uniswap Market
+aave-v2-amm-market: Aave v2 - AMM Market

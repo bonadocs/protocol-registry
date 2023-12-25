@@ -1,3 +1,4 @@
 
 aave-v1-aave-market
 aave-v1-uniswap-market
+aave-v2-amm-market
