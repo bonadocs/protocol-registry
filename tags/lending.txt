@@ -4,3 +4,4 @@ aave-v1-uniswap-market
 aave-v2-amm-market
 aave-v2-arc-permissioned-market
 aave-v2-avalanche-market
+aave-v2-main-market
