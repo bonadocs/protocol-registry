@@ -23,3 +23,4 @@ aave-v3-optimism-market: Aave v3 - Optimism Market
 aave-v3-polygon-market: Aave v3 - Polygon Market
 aura-finance: Aura Finance
 balancer: Balancer
+cap-protocol: CAP Protocol

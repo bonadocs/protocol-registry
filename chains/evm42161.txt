@@ -5,3 +5,4 @@ gmx-v2
 aave-v3-arbitrum-market
 aura-finance
 balancer
+cap-protocol
