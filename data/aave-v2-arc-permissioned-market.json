@@ -1,0 +1,22 @@
+{
+  "name": "Aave v2 - Arc Permissioned Market",
+  "slug": "aave-v2-arc-permissioned-market",
+  "description": "Aave protocol is an ecosystem of liquidity markets, with the first market being the main Aave Market.",
+  "collection": "ipfs://bafkreigwftshd7aggly3pwlsz5q4v6avsvaxgjd7fham2jsyikfuu5y2ni",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "lending",
+  "website": "https://aave.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.aave.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/aave"
+    }
+  ]
+}
