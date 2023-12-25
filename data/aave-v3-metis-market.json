@@ -1,0 +1,22 @@
+{
+  "name": "Aave v3 - Metis Market",
+  "slug": "aave-v3-metis-market",
+  "description": "Aave protocol is an ecosystem of liquidity markets, with the first market being the main Aave Market.",
+  "collection": "ipfs://bafkreigz6ln4njbhb3ofkvoqjk4oon3qegvaopi2aaumeckll35p5rnecu",
+  "owners": "staa99",
+  "chains": "1088",
+  "tags": "lending",
+  "website": "https://aave.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.aave.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/aave.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/aave"
+    }
+  ]
+}
