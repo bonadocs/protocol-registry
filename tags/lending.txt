@@ -8,3 +8,4 @@ aave-v2-polygon-market
 aave-v2-main-market
 aave-v2-rwa-permissioned-market
 aave-v3-arbitrum-market
+aave-v3-avalanche-market
