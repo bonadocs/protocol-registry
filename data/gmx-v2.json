@@ -1,0 +1,22 @@
+{
+  "name": "GMX V2",
+  "slug": "gmx-v2",
+  "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and low price impact trades.\nTrading is supported by unique multi-asset pools that earns liquidity providers fees from market making, swap fees and leverage trading.\nDynamic pricing is supported by Chainlink Oracles and an aggregate of prices from leading volume exchanges.",
+  "collection": "ipfs://bafkreiccpqaiaxhkvx55xdacquyzpljzzclbeljagk2fqtodhigf4nljai",
+  "owners": "staa99",
+  "chains": "42161,43114",
+  "tags": "exchange",
+  "website": "https://gmx.io",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/gmx.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.gmx.io",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/gmx.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/gmx-io"
+    }
+  ]
+}
