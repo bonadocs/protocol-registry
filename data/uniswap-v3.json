@@ -1,0 +1,22 @@
+{
+  "name": "Uniswap V3",
+  "slug": "uniswap-v3",
+  "description": "Uniswap V3 is a binary smart contract system comprised of many libraries, which together make the Core and Periphery.\nCore contracts provide fundamental safety guarantees for all parties interacting with Uniswap. They define the logic of pool generation, the pools themselves, and the interactions involving the respective assets therein.\nPeriphery contracts interact with one or more Core contracts but are not part of the core. They are designed to provide methods of interacting with the core that increase clarity and user safety.",
+  "collection": "ipfs://bafkreieumsbkt2cgco3rtdoqoys42xqdraz7rserilwqltmwh2p6ohwdgm",
+  "owners": "staa99",
+  "chains": "1,42161,10,137,42220,56,8453",
+  "tags": "exchange",
+  "website": "https://uniswap.org",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/uniswap.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.uniswap.org",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/uniswap.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/uniswap"
+    }
+  ]
+}
