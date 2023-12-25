@@ -14,3 +14,4 @@ aave-v3-ethereum-market
 aave-v3-fantom-market
 aave-v3-gnosis-market
 aave-v3-metis-market
+aave-v3-optimism-market
