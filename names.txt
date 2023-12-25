@@ -24,3 +24,4 @@ aave-v3-polygon-market: Aave v3 - Polygon Market
 aura-finance: Aura Finance
 balancer: Balancer
 cap-protocol: CAP Protocol
+compound-v3: Compound v3

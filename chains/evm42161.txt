@@ -6,3 +6,4 @@ aave-v3-arbitrum-market
 aura-finance
 balancer
 cap-protocol
+compound-v3

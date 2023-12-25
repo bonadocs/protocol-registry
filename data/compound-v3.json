@@ -1,0 +1,22 @@
+{
+  "name": "Compound v3",
+  "slug": "compound-v3",
+  "description": "Compound is a protocol on the Ethereum blockchain that establishes money markets, which are pools of assets with algorithmically derived interest rates, based on the supply and demand for the asset. Suppliers (and borrowers) of an asset interact directly with the protocol, earning (and paying) a floating interest rate, without having to negotiate terms such as maturity, interest rate, or collateral with a peer or counterparty.",
+  "collection": "ipfs://bafkreiago4yasofatwznj5wofxe2djhxbd3b3226qavtmoktkomaf6pevy",
+  "owners": "staa99",
+  "chains": "1,137,42161,8453",
+  "tags": "lending",
+  "website": "https://compound.finance",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/compound.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.compound.finance",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/compound.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/compound-finance"
+    }
+  ]
+}
