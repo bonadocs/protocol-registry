@@ -1,0 +1,22 @@
+{
+  "name": "Liquity",
+  "slug": "liquity",
+  "description": "Liquity is a decentralized borrowing protocol that allows you to draw interest-free loans against Ether used as collateral. Loans are paid out in LUSD (a USD pegged stablecoin) and need to maintain a minimum collateral ratio of 110%.",
+  "collection": "ipfs://bafkreibdmhonxwlkr3rgrcua6b5xouxqnp3hcks3e6b3fkplawoydzkbci",
+  "owners": "staa99",
+  "chains": "1,10,42161,324,1101,8453",
+  "tags": "lending",
+  "website": "https://www.liquity.org",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/liquity.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.liquity.org",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/liquity.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/liquity"
+    }
+  ]
+}
