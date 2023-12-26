@@ -7,3 +7,4 @@ mux-leveraged-trading-protocol
 pancakeswap-v2
 pancakeswap-v3
 pendle
+stargate-protocol
