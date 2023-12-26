@@ -1,0 +1,22 @@
+{
+  "name": "Convex for Curve on Ethereum Mainnet",
+  "slug": "convex-for-curve-on-ethereum-mainnet",
+  "description": "Convex allows Curve.fi liquidity providers to earn trading fees and claim boosted CRV without locking CRV themselves. Liquidity providers can receive boosted CRV and liquidity mining rewards with minimal effort. If you would like to stake CRV, Convex lets users receive trading fees as well as a share of boosted CRV received by liquidity providers. This allows for a better balance between liquidity providers and CRV stakers as well as better capital efficiency. Convex has no withdrawal fees and minimal performance fees which is used to pay for gas and distributed to CVX stakers. CRV stakers and liquidity providers also receive liquidity mining rewards in the form of CVX.",
+  "collection": "ipfs://bafkreicdi2w4my6iznw32jijqxgg4r4r7jrsanq3xr2u2rv4hkg26ekyua",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "staking",
+  "website": "https://convexfinance.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.convexfinance.com/convexfinance",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/convex-eth"
+    }
+  ]
+}
