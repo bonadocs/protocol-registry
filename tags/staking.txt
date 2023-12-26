@@ -8,3 +8,4 @@ convex-for-fx-protocol
 gains-network-gtrade
 lido-finance
 mux-aggregator
+mux-leveraged-trading-protocol
