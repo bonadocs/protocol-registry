@@ -14,3 +14,4 @@ aura-finance
 balancer
 compound-v3
 compound-v2
+convex-for-curve-on-ethereum-mainnet
