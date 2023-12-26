@@ -1,0 +1,22 @@
+{
+  "name": "Convex for Frax (FXS)",
+  "slug": "convex-for-frax-fxs",
+  "description": "Convex Finance originally started out with the goal of optimizing and expanding opportunities for users of Curve.fi. Going forward, expansion into other protocols will allow further growth and opportunities for the protocol and CVX holders.  Frax Finance has adopted a similar token-locking model for it's governance token, FXS. Convex Finance has expanded to optimize opportunities for liquidity providers on Frax the same way it has done so for Curve.fi LPs.",
+  "collection": "ipfs://bafkreibjbiq63nv5dvy2djcinkwe4fzr7ve5stqgmw4gwo5ko74t7ergki",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "staking",
+  "website": "https://convexfinance.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.convexfinance.com/convexfinance",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/convex-eth"
+    }
+  ]
+}
