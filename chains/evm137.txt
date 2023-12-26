@@ -6,3 +6,4 @@ aura-finance
 balancer
 compound-v3
 convex-for-curve-on-polygon
+curve

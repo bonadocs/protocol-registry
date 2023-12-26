@@ -4,3 +4,4 @@ gmx-v2
 aave-v2-avalanche-market
 aave-v3-avalanche-market
 balancer
+curve

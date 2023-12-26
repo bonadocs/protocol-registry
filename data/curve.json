@@ -1,0 +1,22 @@
+{
+  "name": "Curve",
+  "slug": "curve",
+  "description": "Curve achieves extremely efficient stablecoin trades by implementing the StableSwap invariant, which has significantly lower slippage for stablecoin trades than many other prominent invariants (e.g., constant-product). Note that in this context stablecoins refers to tokens that are stable representations of one another. This includes, for example, USD-pegged stablecoins (like DAI and USDC), but also ETH and sETH (synthetic ETH) or different versions of wrapped BTC.",
+  "collection": "ipfs://bafkreidd7ptwnhiluoqmfdzer2t4rf2rhcw4kzy2d3iy52ls7gpvhzxhqu",
+  "owners": "staa99",
+  "chains": "1,42161,10,8453,100,137,43114,250,56,2222,42220,1284",
+  "tags": "exchange",
+  "website": "https://curve.fi",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/curve.png",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://curve.readthedocs.io",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/curve.png"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/curvefi"
+    }
+  ]
+}

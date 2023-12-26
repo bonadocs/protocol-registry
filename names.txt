@@ -32,3 +32,4 @@ convex-for-curve-on-polygon: Convex for Curve on Polygon
 convex-for-frax-fpis: Convex for Frax (FPIS)
 convex-for-frax-fxs: Convex for Frax (FXS)
 convex-for-fx-protocol: Convex for FX Protocol
+curve: Curve

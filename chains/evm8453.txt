@@ -5,3 +5,4 @@ aura-finance
 balancer
 cap-protocol
 compound-v3
+curve

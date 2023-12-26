@@ -1,2 +1,3 @@
 
 aave-v3-fantom-market
+curve
