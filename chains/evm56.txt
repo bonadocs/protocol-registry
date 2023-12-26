@@ -5,3 +5,4 @@ frax-finance-stablecoin-protocol
 fraxswap
 mux-leveraged-trading-protocol
 pancakeswap-v2
+pancakeswap-v3

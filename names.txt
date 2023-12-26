@@ -44,3 +44,4 @@ maker-protocol: Maker Protocol
 mux-aggregator: MUX Aggregator
 mux-leveraged-trading-protocol: MUX Leveraged Trading Protocol
 pancakeswap-v2: PancakeSwap v2
+pancakeswap-v3: PancakeSwap v3
