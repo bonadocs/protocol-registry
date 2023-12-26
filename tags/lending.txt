@@ -20,3 +20,4 @@ compound-v3
 compound-v2
 liquity
 spark-protocol
+venus-protocol-core-pool
