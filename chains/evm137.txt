@@ -11,3 +11,4 @@ frax-finance-stablecoin-protocol
 fraxswap
 gains-network-gtrade
 stargate-protocol
+sushi

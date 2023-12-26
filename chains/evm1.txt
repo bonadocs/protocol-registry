@@ -31,3 +31,4 @@ pancakeswap-v3
 pendle
 spark-protocol
 stargate-protocol
+sushi

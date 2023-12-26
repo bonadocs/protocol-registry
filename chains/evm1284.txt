@@ -1,3 +1,4 @@
 curve
 frax-finance-stablecoin-protocol
 fraxswap
+sushi

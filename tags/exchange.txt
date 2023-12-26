@@ -10,3 +10,4 @@ frax-finance-stablecoin-protocol
 fraxswap
 pancakeswap-v2
 pancakeswap-v3
+sushi

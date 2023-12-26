@@ -48,3 +48,4 @@ pancakeswap-v3: PancakeSwap v3
 pendle: Pendle
 spark-protocol: Spark Protocol
 stargate-protocol: Stargate Protocol
+sushi: Sushi
