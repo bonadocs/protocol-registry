@@ -29,3 +29,4 @@ compound-v2: Compound v2
 convex-for-curve-on-arbitrum: Convex for Curve on Arbitrum
 convex-for-curve-on-ethereum-mainnet: Convex for Curve on Ethereum Mainnet
 convex-for-curve-on-polygon: Convex for Curve on Polygon
+convex-for-frax-fpis: Convex for Frax (FPIS)

@@ -1,0 +1,22 @@
+{
+  "name": "Convex for Frax (FPIS)",
+  "slug": "convex-for-frax-fpis",
+  "description": "Convex Finance originally started out with the goal of optimizing and expanding opportunities for users of Curve.fi. Going forward, expansion into other protocols will allow further growth and opportunities for the protocol and CVX holders.  Convex now supports Frax Finance's FPIS token, the governance token for the FPI stablecoin launched by Frax. Frax documentation explains the mechanisms behind the FPI stablecoin and the FPIS governance token in detail.",
+  "collection": "ipfs://bafkreic5us6ihe2frqvjdgjc47fy6djjptg5sogirccdvd6ryly5qfodw4",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "staking",
+  "website": "https://convexfinance.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.convexfinance.com/convexfinance",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/convex-eth"
+    }
+  ]
+}
