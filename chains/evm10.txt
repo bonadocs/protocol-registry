@@ -8,3 +8,4 @@ frax-finance-stablecoin-protocol
 fraxswap
 liquity
 mux-leveraged-trading-protocol
+pendle
