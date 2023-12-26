@@ -22,3 +22,4 @@ liquity
 spark-protocol
 venus-protocol-core-pool
 venus-protocol-governance
+venus-protocol-isolated-pools

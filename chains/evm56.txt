@@ -14,3 +14,4 @@ traderjoe-liquidity-book-v2-0
 traderjoe-liquidity-book-v2-1
 venus-protocol-core-pool
 venus-protocol-governance
+venus-protocol-isolated-pools
