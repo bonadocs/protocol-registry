@@ -4,3 +4,4 @@ convex-for-curve-on-ethereum-mainnet
 convex-for-curve-on-polygon
 convex-for-frax-fpis
 convex-for-frax-fxs
+convex-for-fx-protocol
