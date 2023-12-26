@@ -1,0 +1,22 @@
+{
+  "name": "Spark Protocol",
+  "slug": "spark-protocol",
+  "description": "The Spark Protocol is decentralised non-custodial liquidity protocol where users can participate as suppliers, borrowers or liquidators. Suppliers provide liquidity to a market and can earn interest on the crypto assets provided, while borrowers are able to borrow in an overcollateralized fashion. Borrowers can also engage in one-block borrow transactions (”flash loans”), which do not require overcollateralization.",
+  "collection": "ipfs://bafybeia7tmdde2frtmyrqur2vu5frb5bl76ifhyiyifsc3vwjwv56uizdu",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "lending",
+  "website": "https://spark.fi",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/sparkprotocol.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.spark.fi",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/sparkprotocol.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/marsfoundation"
+    }
+  ]
+}

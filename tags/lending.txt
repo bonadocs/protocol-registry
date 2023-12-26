@@ -19,3 +19,4 @@ aave-v3-polygon-market
 compound-v3
 compound-v2
 liquity
+spark-protocol
