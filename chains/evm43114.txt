@@ -10,3 +10,4 @@ fraxswap
 mux-leveraged-trading-protocol
 stargate-protocol
 sushi
+traderjoe-liquidity-book-v1
