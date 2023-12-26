@@ -2,3 +2,4 @@
 balancer
 liquity
 pancakeswap-v2
+pancakeswap-v3

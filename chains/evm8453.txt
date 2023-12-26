@@ -8,3 +8,4 @@ compound-v3
 curve
 liquity
 pancakeswap-v2
+pancakeswap-v3
