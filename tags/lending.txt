@@ -21,3 +21,4 @@ compound-v2
 liquity
 spark-protocol
 venus-protocol-core-pool
+venus-protocol-governance

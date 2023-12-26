@@ -1,0 +1,22 @@
+{
+  "name": "Venus Protocol Governance",
+  "slug": "venus-protocol-governance",
+  "description": "Venus Protocol is a trusted decentralized finance lending and borrowing protocol that's deployed on the BNB Chain. Initially launched in 2020, it combines the stablecoin minting facility of Maker and the algorithmic money markets developed by Compound, providing a simplified user experience and core capabilities in a single application.",
+  "collection": "ipfs://bafkreihjabxo7k3gduyesuzyu7er7zy6tcslznna7bfna6kwuogcu5xnre",
+  "owners": "staa99",
+  "chains": "56",
+  "tags": "lending",
+  "website": "https://venus.io",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/venus.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs-v4.venus.io",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/venus.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/VenusProtocol"
+    }
+  ]
+}
