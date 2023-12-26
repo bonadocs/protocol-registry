@@ -7,3 +7,4 @@ aura-finance
 balancer
 cap-protocol
 compound-v3
+convex-for-curve-on-arbitrum

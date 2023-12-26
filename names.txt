@@ -26,3 +26,4 @@ balancer: Balancer
 cap-protocol: CAP Protocol
 compound-v3: Compound v3
 compound-v2: Compound v2
+convex-for-curve-on-arbitrum: Convex for Curve on Arbitrum
