@@ -2,3 +2,4 @@ cap-protocol
 convex-for-curve-on-arbitrum
 convex-for-curve-on-ethereum-mainnet
 convex-for-curve-on-polygon
+convex-for-frax-fpis
