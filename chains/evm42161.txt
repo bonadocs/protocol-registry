@@ -13,3 +13,4 @@ frax-finance-stablecoin-protocol
 fraxswap
 gains-network-gtrade
 liquity
+mux-aggregator
