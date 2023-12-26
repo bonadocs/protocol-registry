@@ -1,0 +1,22 @@
+{
+  "name": "Sushi",
+  "slug": "sushi",
+  "description": "Sushi is a community-driven organization built to solve what might be called the “liquidity problem.” One could define this problem as the inability of disparate forms of liquidity to connect with markets in a decentralized way, and vice versa.",
+  "collection": "ipfs://bafkreib3kqxx7jy2jeyyvhf2eebegidmcbuuauac334qbbdzkaxjiarg3e",
+  "owners": "staa99",
+  "chains": "42170,42161,43114,288,43288,56288,56,199,42220,1,250,122,100,1666600000,128,2222,1088,1284,1285,10,137,8453,1101,59144",
+  "tags": "exchange",
+  "website": "https://sushi.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/sushi.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.sushi.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/sushi.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/sushiswap"
+    }
+  ]
+}

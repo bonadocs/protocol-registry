@@ -10,3 +10,4 @@ liquity
 mux-leveraged-trading-protocol
 pendle
 stargate-protocol
+sushi
