@@ -1,0 +1,22 @@
+{
+  "name": "TraderJoe Liquidity Book v1",
+  "slug": "traderjoe-liquidity-book-v1",
+  "description": "Liquidity Book is a novel, highly-capital efficient Automated Market Maker (AMM) protocol.",
+  "collection": "ipfs://bafkreiblbn5vd2po2ji4mewni6ks4xvdzleqp4ino6udcpkyioxnng24te",
+  "owners": "staa99",
+  "chains": "43114,42161,56",
+  "tags": "exchange",
+  "website": "https://traderjoexyz.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/traderjoe.png",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.traderjoexyz.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/traderjoe.png"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/traderjoe-xyz"
+    }
+  ]
+}

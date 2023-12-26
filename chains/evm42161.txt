@@ -20,3 +20,4 @@ pancakeswap-v3
 pendle
 stargate-protocol
 sushi
+traderjoe-liquidity-book-v1

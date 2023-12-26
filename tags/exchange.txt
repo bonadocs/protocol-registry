@@ -11,3 +11,4 @@ fraxswap
 pancakeswap-v2
 pancakeswap-v3
 sushi
+traderjoe-liquidity-book-v1
