@@ -8,3 +8,4 @@ curve
 curve-dao
 frax-finance-stablecoin-protocol
 fraxswap
+pancakeswap-v2

@@ -15,3 +15,4 @@ gains-network-gtrade
 liquity
 mux-aggregator
 mux-leveraged-trading-protocol
+pancakeswap-v2

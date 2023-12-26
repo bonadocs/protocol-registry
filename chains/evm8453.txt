@@ -7,3 +7,4 @@ cap-protocol
 compound-v3
 curve
 liquity
+pancakeswap-v2

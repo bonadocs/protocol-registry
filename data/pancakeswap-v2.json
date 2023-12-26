@@ -1,0 +1,22 @@
+{
+  "name": "PancakeSwap v2",
+  "slug": "pancakeswap-v2",
+  "description": "PancakeSwap is the leading decentralized exchange on BNB Smart Chain, with the highest trading volumes in the market",
+  "collection": "ipfs://bafkreigcmqmsmebcigwn2mbvs32hsee6e7hdagck6tx22cjqn7i5s7xctm",
+  "owners": "staa99",
+  "chains": "56,1,1101,324,42161,59144,8453",
+  "tags": "exchange",
+  "website": "https://pancakeswap.finance",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/pancakeswap.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.pancakeswap.finance",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/pancakeswap.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/pancakeswap"
+    }
+  ]
+}
