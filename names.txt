@@ -36,3 +36,4 @@ curve: Curve
 curve-dao: Curve DAO
 curve-stablecoin-crvusd: Curve Stablecoin - crvUSD
 frax-finance-stablecoin-protocol: Frax Finance Stablecoin Protocol
+fraxswap: Fraxswap

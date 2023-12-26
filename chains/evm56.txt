@@ -2,3 +2,4 @@
 uniswap-v3
 curve
 frax-finance-stablecoin-protocol
+fraxswap
