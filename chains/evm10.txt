@@ -3,3 +3,4 @@ uniswap-v3
 aave-v3-optimism-market
 aura-finance
 balancer
+curve
