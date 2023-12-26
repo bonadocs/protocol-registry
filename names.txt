@@ -50,3 +50,4 @@ spark-protocol: Spark Protocol
 stargate-protocol: Stargate Protocol
 sushi: Sushi
 traderjoe-liquidity-book-v1: TraderJoe Liquidity Book v1
+traderjoe-liquidity-book-v2-0: TraderJoe Liquidity Book v2.0
