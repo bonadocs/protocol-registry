@@ -23,3 +23,4 @@ curve-dao
 curve-stablecoin-crvusd
 frax-finance-stablecoin-protocol
 fraxswap
+lido-finance

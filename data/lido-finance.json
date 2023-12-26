@@ -1,0 +1,22 @@
+{
+  "name": "Lido Finance",
+  "slug": "lido-finance",
+  "description": "GMX is a decentralized spot and perpetual exchange that supports low swap fees and low price impact trades.\nTrading is supported by unique multi-asset pools that earns liquidity providers fees from market making, swap fees and leverage trading.\nDynamic pricing is supported by Chainlink Oracles and an aggregate of prices from leading volume exchanges.",
+  "collection": "ipfs://bafkreie46m3vcrjh7m46j5epsakcxu7l43shiikm5aq5odfbgsxwl3e5ie",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "staking",
+  "website": "https://lido.fi",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/lido.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.lido.fi",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/lido.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/lidofinance"
+    }
+  ]
+}
