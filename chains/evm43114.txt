@@ -11,3 +11,4 @@ mux-leveraged-trading-protocol
 stargate-protocol
 sushi
 traderjoe-liquidity-book-v1
+traderjoe-liquidity-book-v2-0
