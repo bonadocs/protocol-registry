@@ -1,0 +1,22 @@
+{
+  "name": "Stargate Protocol",
+  "slug": "stargate-protocol",
+  "description": "A Composable Omnichain Native Asset Bridge.",
+  "collection": "ipfs://bafkreid7qpguy6zfn3w3bo7y2mrd33gwb6triwndecwkqk4k3r6u2bymuu",
+  "owners": "staa99",
+  "chains": "1,56,43114,137,42161,10,250,1088,8453,59144,2222",
+  "tags": "yield",
+  "website": "https://stargate.finance/",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/stargate.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://stargateprotocol.gitbook.io/stargate",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/stargate.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/stargate-protocol"
+    }
+  ]
+}

@@ -30,3 +30,4 @@ pancakeswap-v2
 pancakeswap-v3
 pendle
 spark-protocol
+stargate-protocol

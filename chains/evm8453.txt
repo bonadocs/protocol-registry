@@ -9,3 +9,4 @@ curve
 liquity
 pancakeswap-v2
 pancakeswap-v3
+stargate-protocol
