@@ -6,3 +6,4 @@ balancer
 cap-protocol
 compound-v3
 curve
+liquity
