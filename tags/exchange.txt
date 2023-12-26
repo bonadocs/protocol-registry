@@ -6,3 +6,4 @@ gmx-v1
 gmx-v2
 curve
 curve-dao
+frax-finance-stablecoin-protocol
