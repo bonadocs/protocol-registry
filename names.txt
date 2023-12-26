@@ -33,3 +33,4 @@ convex-for-frax-fpis: Convex for Frax (FPIS)
 convex-for-frax-fxs: Convex for Frax (FXS)
 convex-for-fx-protocol: Convex for FX Protocol
 curve: Curve
+curve-dao: Curve DAO

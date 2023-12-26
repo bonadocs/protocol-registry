@@ -1,0 +1,22 @@
+{
+  "name": "Curve DAO",
+  "slug": "curve-dao",
+  "description": "Curve uses Aragon for governance and control of the protocol admin functionality. Interaction with Aragon occurs through a modified implementation of the Aragon Voting App.",
+  "collection": "ipfs://bafkreibqac4p5tebi5oj5c2ifpbrwkfpdqrrqakalny3qymgxlmtqtfjvq",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "exchange",
+  "website": "https://dao.curve.fi",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/curve.png",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://curve.readthedocs.io",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/curve.png"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/curvefi"
+    }
+  ]
+}
