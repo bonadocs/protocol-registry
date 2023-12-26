@@ -10,3 +10,4 @@ compound-v3
 convex-for-curve-on-arbitrum
 curve
 frax-finance-stablecoin-protocol
+fraxswap

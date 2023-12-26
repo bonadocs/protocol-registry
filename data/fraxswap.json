@@ -1,0 +1,22 @@
+{
+  "name": "Fraxswap",
+  "slug": "fraxswap",
+  "description": "The Frax Protocol issues innovative, decentralized stablecoins and contains subprotocols to support them. The Frax Protocol currently issues 3 stablecoins: FRAX, FPI, and frxETH.",
+  "collection": "ipfs://bafkreiet2367d52t73n3en24ysvedrrywlqvjdgpclx6slor4ewfypndrm",
+  "owners": "staa99",
+  "chains": "1,42161,43114,56,2000,250,1284,1285,10,137",
+  "tags": "exchange",
+  "website": "https://frax.finance",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/fraxfinance.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.frax.finance",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/fraxfinance.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/FraxFinance"
+    }
+  ]
+}
