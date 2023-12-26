@@ -1,2 +1,1 @@
-liquity
 pancakeswap-v2

@@ -26,3 +26,4 @@ fraxswap
 lido-finance
 liquity
 maker-protocol
+pancakeswap-v2
