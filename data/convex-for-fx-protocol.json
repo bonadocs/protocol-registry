@@ -1,0 +1,22 @@
+{
+  "name": "Convex for FX Protocol",
+  "slug": "convex-for-fx-protocol",
+  "description": "Convex Finance initially embarked on a mission to enhance and broaden opportunities for users of Curve.fi. Looking ahead, the expansion into additional protocols will open up new horizons for both the protocol itself and CVX holders, further fueling growth and possibilities. \"FX Protocol\" has implemented a comparable token-locking model for its governance token, FXN. Convex Finance has extended its optimization efforts to benefit liquidity providers on FX Protocol, similar to its approach with Curve.fi LPs.",
+  "collection": "ipfs://bafkreidg2ndkg5u4bjigo2mvmmpsdmjffdwbtrv6r7bp4ord7nwu6psrue",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "staking",
+  "website": "https://convexfinance.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.convexfinance.com/convexfinance",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/convex.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/convex-eth"
+    }
+  ]
+}

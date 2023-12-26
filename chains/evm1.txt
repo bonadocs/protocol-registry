@@ -17,3 +17,4 @@ compound-v2
 convex-for-curve-on-ethereum-mainnet
 convex-for-frax-fpis
 convex-for-frax-fxs
+convex-for-fx-protocol
