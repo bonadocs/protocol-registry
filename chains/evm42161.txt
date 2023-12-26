@@ -22,3 +22,4 @@ stargate-protocol
 sushi
 traderjoe-liquidity-book-v1
 traderjoe-liquidity-book-v2-0
+traderjoe-liquidity-book-v2-1

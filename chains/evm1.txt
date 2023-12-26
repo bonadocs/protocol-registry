@@ -32,3 +32,4 @@ pendle
 spark-protocol
 stargate-protocol
 sushi
+traderjoe-liquidity-book-v2-1
