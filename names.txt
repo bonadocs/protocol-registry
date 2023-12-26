@@ -38,3 +38,4 @@ curve-stablecoin-crvusd: Curve Stablecoin - crvUSD
 frax-finance-stablecoin-protocol: Frax Finance Stablecoin Protocol
 fraxswap: Fraxswap
 gains-network-gtrade: Gains Network - gTrade
+lido-finance: Lido Finance
