@@ -1,0 +1,22 @@
+{
+  "name": "Pendle",
+  "slug": "pendle",
+  "description": "Pendle is a permissionless yield-trading protocol where users can execute various yield-management strategies.",
+  "collection": "ipfs://bafkreihbheyjjk5dcbequfk5z7plamtodxezyxaxwjbap3aptddftqnluy",
+  "owners": "staa99",
+  "chains": "1,42161,10,56",
+  "tags": "staking",
+  "website": "https://www.pendle.finance/",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/pendle.png",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.pendle.finance/home",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/pendle.png"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/pendle-finance"
+    }
+  ]
+}
