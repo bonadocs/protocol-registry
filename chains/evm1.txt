@@ -20,3 +20,4 @@ convex-for-frax-fxs
 convex-for-fx-protocol
 curve
 curve-dao
+curve-stablecoin-crvusd

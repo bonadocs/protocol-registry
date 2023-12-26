@@ -1,0 +1,22 @@
+{
+  "name": "Curve Stablecoin - crvUSD",
+  "slug": "curve-stablecoin-crvusd",
+  "description": "Curve Stablecoin (crvUSD) infrastructure enables users to mint crvUSD using a selection of crypto-tokenized collaterals (adding new ones is subject to DAO approval).\ncrvUSD is designed to provide a more capital-efficient stablecoin mechanism and smoother liquidations, while maintaining a decentralized design which the Curve DAO governs.",
+  "collection": "ipfs://bafkreianbupghsmfc4q5um65zu4o6iynt24jcfzyz33po7hnfd4lccfdye",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "stablecoin",
+  "website": "https://crvusd.curve.fi",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/curve.png",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://curve.readthedocs.io",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/curve.png"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/curvefi"
+    }
+  ]
+}
