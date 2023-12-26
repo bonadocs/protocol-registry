@@ -7,3 +7,4 @@ balancer
 curve
 frax-finance-stablecoin-protocol
 fraxswap
+mux-leveraged-trading-protocol

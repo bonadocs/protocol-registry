@@ -42,3 +42,4 @@ lido-finance: Lido Finance
 liquity: Liquity
 maker-protocol: Maker Protocol
 mux-aggregator: MUX Aggregator
+mux-leveraged-trading-protocol: MUX Leveraged Trading Protocol

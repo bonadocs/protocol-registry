@@ -1,0 +1,22 @@
+{
+  "name": "MUX Leveraged Trading Protocol",
+  "slug": "mux-leveraged-trading-protocol",
+  "description": "MUX leveraged trading protcol is a decentralized leveraged trading protocol offering zero price impact trading, up to 100x leverage, self-custody, aggregated liquidity and an optimized on-chain trading experience.",
+  "collection": "ipfs://bafkreihgyvg7wjh74uihu444sojkxlpo63aeq3k5yzf5lnhf6vbun6mcce",
+  "owners": "staa99",
+  "chains": "42161,43114,56,250,10",
+  "tags": "staking",
+  "website": "https://mux.network",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/mux.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.mux.network",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/mux.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/mux-world"
+    }
+  ]
+}

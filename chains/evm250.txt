@@ -3,3 +3,4 @@ aave-v3-fantom-market
 curve
 frax-finance-stablecoin-protocol
 fraxswap
+mux-leveraged-trading-protocol

@@ -3,3 +3,4 @@ uniswap-v3
 curve
 frax-finance-stablecoin-protocol
 fraxswap
+mux-leveraged-trading-protocol
