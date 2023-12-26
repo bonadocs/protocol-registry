@@ -7,3 +7,4 @@ convex-for-frax-fxs
 convex-for-fx-protocol
 gains-network-gtrade
 lido-finance
+mux-aggregator

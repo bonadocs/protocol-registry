@@ -41,3 +41,4 @@ gains-network-gtrade: Gains Network - gTrade
 lido-finance: Lido Finance
 liquity: Liquity
 maker-protocol: Maker Protocol
+mux-aggregator: MUX Aggregator

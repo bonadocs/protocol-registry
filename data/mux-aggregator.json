@@ -1,0 +1,22 @@
+{
+  "name": "MUX Aggregator",
+  "slug": "mux-aggregator",
+  "description": "A sub-protocol in the MUX protocol suite that automatically selects the most suitable liquidity route and minimizes the composite cost for traders while meeting the needs of opening positions. The aggregator can also supply additional margin for traders to raise the leverage up to 100x on aggregated underlying protocols.",
+  "collection": "ipfs://bafkreieacn2gei2xhag2rirhddstrqoiid3genjyxqq2lofnjpzc27k5f4",
+  "owners": "staa99",
+  "chains": "42161",
+  "tags": "staking",
+  "website": "https://mux.network",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/mux.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.mux.network",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/mux.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/mux-world"
+    }
+  ]
+}
