@@ -4,3 +4,4 @@ aave-v3-optimism-market
 aura-finance
 balancer
 curve
+frax-finance-stablecoin-protocol

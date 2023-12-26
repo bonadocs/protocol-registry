@@ -5,3 +5,4 @@ aave-v2-avalanche-market
 aave-v3-avalanche-market
 balancer
 curve
+frax-finance-stablecoin-protocol
