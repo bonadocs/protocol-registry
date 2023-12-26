@@ -1,0 +1,22 @@
+{
+  "name": "Maker Protocol",
+  "slug": "maker-protocol",
+  "description": "The Maker Protocol is the platform through which anyone, anywhere can generate the Dai stablecoin against crypto collateral assets.",
+  "collection": "ipfs://bafybeihx6padlmcoi2vzx3vi4bzasic6worbcdwlgzujdnkbsprljvf3vy",
+  "owners": "staa99",
+  "chains": "1",
+  "tags": "stablecoin",
+  "website": "https://makerdao.com",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/maker.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.makerdao.com",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/maker.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/makerdao"
+    }
+  ]
+}

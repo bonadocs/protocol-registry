@@ -25,3 +25,4 @@ frax-finance-stablecoin-protocol
 fraxswap
 lido-finance
 liquity
+maker-protocol
