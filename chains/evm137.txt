@@ -9,3 +9,4 @@ convex-for-curve-on-polygon
 curve
 frax-finance-stablecoin-protocol
 fraxswap
+gains-network-gtrade

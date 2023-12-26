@@ -1,0 +1,18 @@
+{
+  "name": "Gains Network - gTrade",
+  "slug": "gains-network-gtrade",
+  "description": "Gains Network is developing gTrade, a liquidity-efficient, powerful, and user-friendly decentralized leveraged trading platform.",
+  "collection": "ipfs://bafybeieutqk3e7kf4zhu3tc5vdscw5fubxovng3c6p55j7khhcolmdcdne",
+  "owners": "staa99",
+  "chains": "137,42161",
+  "tags": "staking",
+  "website": "https://gainsnetwork.io",
+  "logo": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/gainsnetwork.png",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://gains-network.gitbook.io/docs-home/",
+      "imgURI": "https://res.cloudinary.com/dckecq0n3/image/upload/v1703467505/protocol-logos/gainsnetwork.png"
+    }
+  ]
+}
