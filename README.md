@@ -1,7 +1,7 @@
 # Bonadocs Protocol Registry
 
-The protocol registry repository serves as a public open-source database to power the protocol search feature in Bonadocs,
-enabling public contribution without compromising the safety of developers who use the search tool.
+The protocol registry repository is a public open-source database to power the protocol search feature in Bonadocs,
+enabling public contribution while preserving accuracy guarantors the .
 
 ## How does it work?
 
