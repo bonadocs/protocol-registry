@@ -1,5 +1,5 @@
 ethereum-mainnet: Ethereum Mainnet (1)
-bnb-smart-chain-mainnet: BNB Smart Chain Mainnet (56)
+binance: BNB Smart Chain Mainnet (56)
 arbitrum-one: Arbitrum One (42161)
 base: Base (8453)
 avalanche-c-chain: Avalanche C-Chain (43114)
