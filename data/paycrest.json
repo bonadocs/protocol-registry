@@ -1,0 +1,22 @@
+{
+  "name": "Paycrest Protocol",
+  "slug": "paycrest-protocol",
+  "description": "Accelerating the future of democratized payment systems.",
+  "collection": "ipfs://QmeVvRQb9VnteCJ6ZzNej6CRZ2w87ycBoAAbrvxktF1dXc",
+  "owners": "bonadocs",
+  "chains": "42161,1",
+  "tags": "exchange",
+  "website": "https://paycrest.io/",
+  "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1734849861/9PYXsJIM_400x400_l37lxt.jpg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://paycrest.io/",
+      "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1734849861/9PYXsJIM_400x400_l37lxt.jpg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/paycrest"
+    }
+  ]
+}
