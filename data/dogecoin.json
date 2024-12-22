@@ -1,0 +1,22 @@
+{
+  "name": "Doge-coin",
+  "slug": "dogecoin",
+  "description": "An open-source peer-to-peer digital currency",
+  "collection": "ipfs://Qmbc6yfSXbvBE9YzSzMRRWbVmAApUA9ZtJEw7rNTYBrKTa",
+  "owners": "bonadocs",
+  "chains": "56",
+  "tags": "exchange",
+  "website": "https://dogecoin.com/",
+  "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1721214317/dogecoin-doge-logo_m9ic7l.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://dogecoin.com/",
+      "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1721214317/dogecoin-doge-logo_m9ic7l.svg"
+    },
+    {
+      "label": "Etherscan",
+      "url": "https://bscscan.com/token/0xba2ae424d960c26247dd6c32edc70b295c744c43"
+    }
+  ]
+}
