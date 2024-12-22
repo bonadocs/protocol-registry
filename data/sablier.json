@@ -1,0 +1,22 @@
+{
+  "name": "Sablier",
+  "slug": "sablier",
+  "description": "Free-to-use infrastructure for onchain token distribution. DAOs and businesses use Sablier for vesting, payroll, airdrops, and more..",
+  "collection": "ipfs://QmNMNVt6UKimYTxS94JjTF7xcza9cPMx1he3ibQw5NJQLS",
+  "owners": "bonadocs",
+  "chains": "42161,1",
+  "tags": "exchange",
+  "website": "https://sablier.com/",
+  "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1734849017/sablier_f1lyet.svg",
+  "links": [
+    {
+      "label": "Documentation Website",
+      "url": "https://docs.sablier.com/",
+      "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1734849017/sablier_f1lyet.svg"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/sablier-labs"
+    }
+  ]
+}
