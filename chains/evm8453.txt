@@ -9,5 +9,6 @@ curve
 liquity
 pancakeswap-v2
 pancakeswap-v3
+paycrest-v1
 stargate-protocol
 sushi

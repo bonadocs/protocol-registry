@@ -9,5 +9,6 @@ fraxswap
 liquity
 mux-leveraged-trading-protocol
 pendle
+paycrest-v1
 stargate-protocol
 sushi

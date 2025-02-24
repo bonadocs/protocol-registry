@@ -10,6 +10,7 @@ frax-finance-stablecoin-protocol
 fraxswap
 pancakeswap-v2
 pancakeswap-v3
+paycrest-v1
 sushi
 traderjoe-liquidity-book-v1
 traderjoe-liquidity-book-v2-0

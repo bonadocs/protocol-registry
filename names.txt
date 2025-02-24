@@ -45,6 +45,7 @@ mux-aggregator: MUX Aggregator
 mux-leveraged-trading-protocol: MUX Leveraged Trading Protocol
 pancakeswap-v2: PancakeSwap v2
 pancakeswap-v3: PancakeSwap v3
+paycrest-v1: Paycrest protocol
 pendle: Pendle
 spark-protocol: Spark Protocol
 stargate-protocol: Stargate Protocol
@@ -56,3 +57,4 @@ venus-protocol-core-pool: Venus Protocol Core Pool
 venus-protocol-governance: Venus Protocol Governance
 venus-protocol-isolated-pools: Venus Protocol Isolated Pools
 venus-protocol-oracles: Venus Protocol Oracles
+

@@ -29,6 +29,7 @@ maker-protocol
 pancakeswap-v2
 pancakeswap-v3
 pendle
+paycrest-v1
 spark-protocol
 stargate-protocol
 sushi
