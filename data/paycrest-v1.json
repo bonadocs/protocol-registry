@@ -7,12 +7,12 @@
     "chains": "1,137,56,8453,42161,42220,10",
     "tags": "exchange",
     "website": "https://paycrest.io/",
-    "logo": "https://avatars.githubusercontent.com/u/128634635",
+    "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740409568/128634635_1_bn7cca.png",
     "links": [
       {
         "label": "Documentation Website",
         "url": "https://docs.paycrest.io/",
-        "imgURI": "https://avatars.githubusercontent.com/u/128634635"
+        "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740409568/128634635_1_bn7cca.png"
       },
       {
         "label": "GitHub",
