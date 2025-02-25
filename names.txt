@@ -61,6 +61,7 @@ venus-protocol-core-pool: Venus Protocol Core Pool
 venus-protocol-governance: Venus Protocol Governance
 venus-protocol-isolated-pools: Venus Protocol Isolated Pools
 venus-protocol-oracles: Venus Protocol Oracles
+velodrome: Velodrome
 1inch: 1inch protocol
 
 

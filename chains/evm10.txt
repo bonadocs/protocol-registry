@@ -16,3 +16,4 @@ stargate-protocol
 sushi
 superfluid
 synthetix
+velodrome

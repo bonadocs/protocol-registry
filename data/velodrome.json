@@ -1,0 +1,22 @@
+{
+    "name": "Velodrome",
+    "slug": "velodrome",
+    "description": "V2 contracts for Velodrome Finance, an AMM on Optimism inspired by Solidly.",
+    "collection": "ipfs://QmWqNxqWSDgiFpYDnfUmMkMyqiUbK7Dkx4u3XEk8yZT7D8",
+    "owners": "bonadocs",
+    "chains": "10",
+    "tags": "exchange",
+    "website": "https://velodrome.finance",
+    "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740475167/104097115-ezgif.com-gif-maker_two5zg.svg",
+    "links": [
+      {
+        "label": "Documentation Website",
+        "url": "https://github.com/velodrome-finance/docs",
+        "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740475167/104097115-ezgif.com-gif-maker_two5zg.svg"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/velodrome-finance"
+      }
+    ]
+  }
