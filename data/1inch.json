@@ -1,0 +1,22 @@
+{
+    "name": "1inch",
+    "slug": "1inch",
+    "description": "One-stop access to decentralized finance.",
+    "collection": "ipfs://QmRj53u5DATB1WLCYPrAXX1XALC7WqRePEiBdYjdMZrnqN",
+    "owners": "staa99",
+    "chains": "1,10",
+    "tags": "exchange",
+    "website": "https://1inch.io/",
+    "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740473555/43341157-ezgif.com-gif-maker_bdomk8.svg",
+    "links": [
+      {
+        "label": "Documentation Website",
+        "url": "https://1inch.dev/",
+        "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740473555/43341157-ezgif.com-gif-maker_bdomk8.svg"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/1inch"
+      }
+    ]
+  }
