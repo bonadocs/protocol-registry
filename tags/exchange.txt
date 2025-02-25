@@ -13,6 +13,7 @@ pancakeswap-v3
 paycrest-v1
 sushi
 sablier
+synthetix
 traderjoe-liquidity-book-v1
 traderjoe-liquidity-book-v2-0
 traderjoe-liquidity-book-v2-1

@@ -36,4 +36,5 @@ spark-protocol
 stargate-protocol
 superfluid
 sushi
+synthetix
 traderjoe-liquidity-book-v2-1

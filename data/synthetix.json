@@ -1,0 +1,22 @@
+{
+    "name": "Synthetix",
+    "slug": "synthetix",
+    "description": "Synthetix Exchange is a powerful decentralized trading platform that lets you access synthetic assets, leverage, and yield opportunities—all with the security and efficiency of the underlying crypto netwok.",
+    "collection": "ipfs://QmcQm7xtXewK2XMLSESZURwojmGV8X1a68o4b77115hJy8",
+    "owners": "staa99",
+    "chains": "1,10",
+    "tags": "exchange",
+    "website": "https://sushi.com",
+    "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740474152/30892445-ezgif.com-gif-maker_xyhxpu.svg",
+    "links": [
+      {
+        "label": "Documentation Website",
+        "url": "https://docs.sushi.com",
+        "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740474152/30892445-ezgif.com-gif-maker_xyhxpu.svg"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/synthetixio"
+      }
+    ]
+  }
