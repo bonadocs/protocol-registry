@@ -47,6 +47,7 @@ pancakeswap-v2: PancakeSwap v2
 pancakeswap-v3: PancakeSwap v3
 paycrest-v1: Paycrest protocol
 pendle: Pendle
+sablier: Sablier
 spark-protocol: Spark Protocol
 stargate-protocol: Stargate Protocol
 sushi: Sushi

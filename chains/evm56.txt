@@ -8,6 +8,7 @@ pancakeswap-v2
 pancakeswap-v3
 pendle
 paycrest-v1
+sablier
 stargate-protocol
 sushi
 traderjoe-liquidity-book-v1

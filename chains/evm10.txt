@@ -10,5 +10,6 @@ liquity
 mux-leveraged-trading-protocol
 pendle
 paycrest-v1
+sablier
 stargate-protocol
 sushi
