@@ -51,6 +51,7 @@ pendle: Pendle
 sablier: Sablier
 spark-protocol: Spark Protocol
 stargate-protocol: Stargate Protocol
+superfluid: Superfluid
 sushi: Sushi
 traderjoe-liquidity-book-v1: TraderJoe Liquidity Book v1
 traderjoe-liquidity-book-v2-0: TraderJoe Liquidity Book v2.0
@@ -59,3 +60,4 @@ venus-protocol-core-pool: Venus Protocol Core Pool
 venus-protocol-governance: Venus Protocol Governance
 venus-protocol-isolated-pools: Venus Protocol Isolated Pools
 venus-protocol-oracles: Venus Protocol Oracles
+

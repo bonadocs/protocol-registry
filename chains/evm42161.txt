@@ -20,6 +20,7 @@ pancakeswap-v3
 pendle
 paycrest-v1
 stargate-protocol
+superfluid
 sushi
 traderjoe-liquidity-book-v1
 traderjoe-liquidity-book-v2-0

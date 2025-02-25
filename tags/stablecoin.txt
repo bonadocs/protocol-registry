@@ -3,3 +3,4 @@ curve-stablecoin-crvusd
 maker-protocol
 paycrest-v1
 sablier
+superfluid

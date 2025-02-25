@@ -1,0 +1,22 @@
+{
+    "name": "Superfluid Protocol",
+    "slug": "superfluid",
+    "description": "The Most Advanced Money Streaming Protocol.",
+    "collection": "ipfs://QmV4guGQJrjaPCTa2tH7FPtMfptUC7cKdgJvSAkZgVeRuZ",
+    "owners": "staa99",
+    "chains": "1,42161,10",
+    "tags": "stablecoin",
+    "website": "https://superfluid.org/",
+    "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740472887/61932813-ezgif.com-gif-maker_rgaqqk.svg",
+    "links": [
+      {
+        "label": "Documentation Website",
+        "url": "https://docs.superfluid.org/",
+        "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740472887/61932813-ezgif.com-gif-maker_rgaqqk.svg"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/superfluid-finance"
+      }
+    ]
+  }

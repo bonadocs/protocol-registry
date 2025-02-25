@@ -33,5 +33,6 @@ paycrest-v1
 sablier
 spark-protocol
 stargate-protocol
+superfluid
 sushi
 traderjoe-liquidity-book-v2-1
