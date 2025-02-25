@@ -35,6 +35,7 @@ convex-for-fx-protocol: Convex for FX Protocol
 curve: Curve
 curve-dao: Curve DAO
 curve-stablecoin-crvusd: Curve Stablecoin - crvUSD
+farcaster
 frax-finance-stablecoin-protocol: Frax Finance Stablecoin Protocol
 fraxswap: Fraxswap
 gains-network-gtrade: Gains Network - gTrade

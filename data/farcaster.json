@@ -1,0 +1,19 @@
+{
+    "name": "Farcaster",
+    "slug": "farcaster",
+    "description": "Permissionlessly build and distribute social apps",
+    "collection": "ipfs://QmXFFkoLgsitRJZdPYqNVCagQwStXiwrjFimKxb8BubGKR",
+    "owners": "bonadocs",
+    "chains": "10",
+    "tags": "infrastructure",
+    "website": "https://farcaster.xyz/",
+    "logo": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740471046/QoG0ZVgH_400x400-ezgif.com-gif-maker_mxishs.svg",
+    "links": [
+      {
+        "label": "Documentation Website",
+        "url": "https://docs.farcaster.xyz/",
+        "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740471046/QoG0ZVgH_400x400-ezgif.com-gif-maker_mxishs.svg"
+      }
+    ]
+  }
+  

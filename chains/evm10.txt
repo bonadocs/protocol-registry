@@ -4,6 +4,7 @@ aave-v3-optimism-market
 aura-finance
 balancer
 curve
+farcaster
 frax-finance-stablecoin-protocol
 fraxswap
 liquity
