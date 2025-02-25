@@ -13,6 +13,10 @@
         "label": "Documentation Website",
         "url": "https://docs.farcaster.xyz/",
         "imgURI": "https://res.cloudinary.com/dfkuxnesz/image/upload/v1740471046/QoG0ZVgH_400x400-ezgif.com-gif-maker_mxishs.svg"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/farcasterxyz"
       }
     ]
   }
