@@ -87,3 +87,13 @@ sufficiently large to make the current GitHub-powered process inefficient, we wo
   implement a solution to speed up update times for pre-reviewed protocols. Initial reviews will stay manual for the foreseeable future.
 - __Search can be inefficient as the DB grows__. Based on our estimate of fewer than 10000 web3 protocols with active users across EVM chains, the current
   GitHub-based search solution is good enough to handle most users' needs.
+
+  ## 📜 License
+
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+By using, modifying, or distributing this software, you agree to comply with the terms of the **AGPL-3.0** license.
+
+For more details, see the [LICENSE](LICENSE) file or visit:  
+[https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html)
+
